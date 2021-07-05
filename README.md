@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sauravism
+- 👋 Hi, I’m @saurav
 - 👀 I’m interested in Revolutionzing the world using Data.
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science Projects
